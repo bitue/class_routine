@@ -1,0 +1,28 @@
+body{
+    background-color:dimgray;
+}
+
+h2{
+    text-align: center;
+    color:yellow;
+}
+
+table{
+    width: 100%;
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 3px solid black;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    color: black;
+    background-color: #D8E8F4;
+}
+td a{
+    text-decoration: none;
+    color: cornflowerblue;
+}
